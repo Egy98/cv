@@ -8,7 +8,7 @@ Questa repository è dedicata alla condivisione del mio CV professionale in form
 
 ## 📁 File Principale
 
-- [`Fabio_DAlessandro_CV.pdf`](./Fabio_DAlessandro_CV.pdf) – Curriculum aggiornato
+- [`Fabio_DAlessandro_CV.pdf`]([./Fabio_DAlessandro_CV.pdf](https://github.com/Egy98/cv/blob/main/Fabio_Dalessandro_cv.pdf)) – Curriculum aggiornato
 
 ## 🧠 Competenze Tecniche
 
