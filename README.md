@@ -1,10 +1,10 @@
 # 📄 Curriculum Vitae - Fabio D'Alessandro
 
-Benvenuto nella repository contenente il mio **Curriculum Vitae** aggiornato.
+Benvenuto nella repository contenente il mio **Curriculum Vitae** aggiornato, che riflette le competenze acquisite fino ad oggi e il percorso professionale in evoluzione.
 
 ## 📌 Descrizione
 
-Questa repository è dedicata alla condivisione del mio CV professionale in formato PDF. Al suo interno troverai una panoramica delle mie competenze tecniche, esperienze lavorative e progetti significativi.
+Questa repository raccoglie il mio CV professionale in formato PDF. Al suo interno troverai informazioni aggiornate su **competenze tecniche**, **esperienze lavorative**, **formazione** e **progetti significativi**, con particolare focus sullo sviluppo moderno in C# e .NET.
 
 ## 📁 File Principale
 
@@ -12,11 +12,10 @@ Questa repository è dedicata alla condivisione del mio CV professionale in form
 
 ## 🧠 Competenze Tecniche
 
-- IBM iSeries (AS400), RPG, CL, SQL
-- Analisi dati e sviluppo di report automatizzati
-- Python per automazione, generazione file Excel
-- Conoscenze di base in .NET e Java
-- Integrazione di sistemi aziendali e logiche gestionali
+- **Linguaggi e scripting:** C#(programmazione orientata agli oggetti (OOP), design pattern), Python (basi), RPG IV (ILE/Free Format), CL, SQL (DB2 AS400), HTML/CSS (basi)
+- **Database & Analisi Dati:** DB2 su AS400, estrazione dati, ottimizzazione query, pipeline ETL, Excel avanzato (macro, pivot, collegamenti a dati esterni)
+- **Ambienti & Strumenti:** IBM i (AS400), Visual Studio, Git, DBeaver, WebGate400, Power BI (base)
+- **Competenze tecnico-funzionali:** analisi requisiti, traduzione in soluzioni scalabili, automazione processi, interfaccia tra IT e business, documentazione tecnica chiara
 
 ## 🔗 Contatti
 
